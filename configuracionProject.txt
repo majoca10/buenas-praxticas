@@ -1,0 +1,29 @@
+###Comando para inicializar un proyecto.####
+
+- node -v verificar version de node.
+- npm -v verificar version de npm manejador de packets.
+- git --version verificar la version de git.
+
+###Iniciar un manejador de packetes package.json###
+
+- npm init ----> llenar datos que pide.
+
+###Crear repositorio GIT###
+
+- Configurar de forma global las credenciales de acceso a git por consola.
+- git config --global user.name "John Doe".
+- git config --global user.email johndoe@example.com.
+- git init
+- git add . ----> Agregar Cambios.
+- git commit -m "cambios1.0"
+- git remote add origin https://github.com/majoca10/project.git
+- git push --sett-upstream origin master ----> enlazar ramas.
+- git config --local -e ----> visualizacion de a configuracion del branch.
+- git checkout -b develop ----> Creamos una rama para desarrollo y validacion antes de subir a la principal.
+- git push --sett-upstream origin develop ----> enlazar ramas.
+- Configurar el git para que almenos se necesite una validacion por 1 master antes de hacer merge para hacer pull request.
+
+
+
+
+
