@@ -1,0 +1,19 @@
+{
+  "name": "buenas-practicas",
+  "version": "0.1.0",
+  "description": "Scaffolding of a Vue Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majoca10/buenas-praxticas.git"
+  },
+  "author": "Mauricio Castro Vital",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majoca10/buenas-praxticas/issues"
+  },
+  "homepage": "https://github.com/majoca10/buenas-praxticas#readme"
+}
